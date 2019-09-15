@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 import data from '../../data/contact';
+import Emoji from './Emoji';
 
 const Nav = () => (
   <section id="sidebar">
@@ -13,17 +14,17 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Nick Burrin</h2>
+        <p><a href="mailto:nickburrin18@gmail.com">nickburrin18@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-            I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-            the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-            at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Nick. I like building things...and reusing other people&apos;s great work <Emoji symbol="😝" />
+            I am a <a href="http://www.ece.utexas.edu/">UT-Austin ECE</a> graduate,
+            a <a href="https://www2.deloitte.com/us/en/services/consulting.html?icid=top_consulting">Deloitte Consulting</a> Alumni,
+            and currently a software developer at <a href="https://faithlife.com/about">Faithlife</a>.
       </p>
       <ul className="actions">
         <li>
