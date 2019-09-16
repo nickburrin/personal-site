@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Texas at Austin',
+    degree: 'B.S. Electrical & Computer Engineering',
+    link: 'https://www.utexas.edu',
+    year: 2015,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Texas at Austin - McCombs School of Business',
+    degree: 'Business Foundations Certificate',
+    link: 'http://www.mccombs.utexas.edu',
+    year: 2015,
   },
 ];
 

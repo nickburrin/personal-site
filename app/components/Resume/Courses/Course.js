@@ -16,6 +16,7 @@ Course.propTypes = {
     link: PropTypes.string.isRequired,
     number: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
+    category: PropTypes.string.isRequired,
   }).isRequired,
   last: PropTypes.bool,
 };

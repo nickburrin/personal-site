@@ -1,93 +1,36 @@
 
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Cofounder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'Faithlife',
+    position: 'Software Developer',
+    link: 'https://faithlife.com/about',
+    daterange: 'Novemeber 2018 - Present',
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Built production on-line ETL Pipelines on Kubernetes with Pandas, Postgres, and Kubeflow on GCP.',
-      'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
+      'Front-end developer on flagship desktop application ( Windows and macOS )',
+      'Led new-feature development for a component identified as critical by our institutional sales department',
+      'Enhanced existing features, refactored aging code bases, fixed bugs and provided code review',
+      'Worked for a short time as an Android and iOS Developer on the Logos mobile app',
+      'Served as an Intern Ambassador, organizing multiple events and mentoring 16 interns throughout their summer experience',
+      'Technical Stack >_ C#, Objective-C, Java / Kotlin, JavaScript, GitHub VCS, Jenkins, Jira',
     ],
   }, {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - Present',
+    company: 'Deloitte Consulting',
+    position: 'Strategy & Operations Consultant',
+    link: 'https://www2.deloitte.com/us/en/services/consulting.html',
+    daterange: 'January 2016 - May 2018',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
-    ],
-  }, {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'http://zenysis.com',
-    daterange: 'February 2016 - March 2016',
-    points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  }, {
-    company: 'Matroid',
-    position: 'Cofounder',
-    link: 'http://matroid.com',
-    daterange: 'July 2015 - January 2016',
-    points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
-  }, {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
-    points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  }, {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
-    points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      `Supported clients by providing strategic, operational, M&A, and supply-chain services in various industries including industrial &
+        consumer products, private equity, technology, and higher education – including 5 Fortune 500 companies and a top-tier university`,
+      `Directed the analysis of synergies for a prospective merger of two large industrial clients (>$5B revenue); used a brute force
+        algorithm to identify $1B of value through cost savings and incremental revenues from additional production capacity`,
+      `Served as the business representative on a technical scrum team: aligned business priorities to technical projects, assigned issues to
+        developers in JIRA, monitored the developer backlog, tested and verified SQL code`,
+      `Performed research & analysis to develop a go-to-market strategy for a public-private partnership seeking to create a research
+        institute for the future of Connected & Autonomous Vehicles`,
+      `Acknowledged for contributions to The Future of Freight , Deloitte’s perspective on how technology and changing market dynamics
+        will affect the movement of goods`,
+      `Twice featured on Deloitte’s internal homepage to spotlight involvement with a neighborhood non-profit, including the leadership
+        and organization of two pro-bono projects with over 40 volunteers`,
     ],
   },
 ];

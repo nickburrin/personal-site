@@ -21,10 +21,11 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Nick. I like building things...and reusing other people&apos;s great work <Emoji symbol="😝" />
-            I am a <a href="http://www.ece.utexas.edu/">UT-Austin ECE</a> graduate,
-            a <a href="https://www2.deloitte.com/us/en/services/consulting.html?icid=top_consulting">Deloitte Consulting</a> Alumni,
-            and currently a software developer at <a href="https://faithlife.com/about">Faithlife</a>.
+      <p>Hi, I&apos;m Nick. I like building things...and reusing other people&apos;s great work <Emoji symbol="😝" /> 
+        <br />
+        I am a <a href="http://www.ece.utexas.edu/">UT-Austin ECE</a> graduate,
+        a <a href="https://www2.deloitte.com/us/en/services/consulting.html">Deloitte Consulting</a> Alumni,
+        and currently a software developer at <a href="https://faithlife.com/about">Faithlife</a>.
       </p>
       <ul className="actions">
         <li>
