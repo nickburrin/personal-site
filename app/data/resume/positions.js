@@ -11,7 +11,7 @@ const positions = [
       'Enhanced existing features, refactored aging code bases, fixed bugs and provided code review',
       'Worked for a short time as an Android and iOS Developer on the Logos mobile app',
       'Served as an Intern Ambassador, organizing multiple events and mentoring 16 interns throughout their summer experience',
-      'Technical Stack >_ C#, Objective-C, Java / Kotlin, JavaScript, GitHub VCS, Jenkins, Jira',
+      'Technical Stack: C#, Objective-C, Java / Kotlin, JavaScript, GitHub VCS, Jenkins, Jira',
     ],
   }, {
     company: 'Deloitte Consulting',
