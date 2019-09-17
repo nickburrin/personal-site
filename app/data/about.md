@@ -19,7 +19,7 @@ I work on the [Logos Desktop](https://www.logos.com/why-logos) platform for Wind
 
 #### Fun facts
 
-- I often try to make the numbers in an address equal to zero (e.g. 14126 => 1*4*1+2-6 == 0)
+- I often try to make the numbers in an address equal to zero (e.g. 14126 => 1 x 4 x 1 + 2 - 6 == 0)
 - I built this page off of an exisiting template created by [Michael D'Angelo](https://mldangelo.com/)
 
 #### I dream of
