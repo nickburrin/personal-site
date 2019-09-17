@@ -2,7 +2,7 @@ const data = [
   {
     path: '/',
     label: 'Nick Burrin',
-    index: true,
+    isIndex: true,
   },
   {
     path: '/about',
