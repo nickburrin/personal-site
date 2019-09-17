@@ -5,6 +5,11 @@ import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
+    link: 'https://www.linkedin.com/in/nickburrin92/',
+    label: 'LinkedIn',
+    icon: faLinkedinIn,
+  },
+  {
     link: 'https://github.com/nickburrin',
     label: 'Github',
     icon: faGithub,
@@ -13,11 +18,6 @@ const data = [
     link: 'https://www.instagram.com/nickburin/',
     label: 'Instagram',
     icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/nickburrin92/',
-    label: 'LinkedIn',
-    icon: faLinkedinIn,
   },
   {
     link: 'mailto:nickburrin18@gmail.com',
