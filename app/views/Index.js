@@ -17,7 +17,7 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         {/* <Link to="/projects">projects</Link>, {' '} */}
         {/* view <Link to="/stats">site statistics</Link>, {' '} */}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/contact">contact me</Link>.
       </p>
       <p> Source code available <a href="https://github.com/nickburrin/personal-site">here</a>.</p>
     </article>
